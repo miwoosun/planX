@@ -10,6 +10,10 @@ npm config set registry https://registry.npm.taobao.org
 http://registry.npmjs.org/
 npm i element-ui -S 安装element
 npm  --registry https://registry.npm.taobao.org i @smallwei/avue -S 安装avue
+
+npn i webpack -g 安装webpack
+
+npm install -g @vue/cli 
 ```
 
 ### Compiles and hot-reloads for development
@@ -33,4 +37,6 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
+
+test

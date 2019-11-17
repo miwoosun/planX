@@ -51,7 +51,7 @@ export default {
   methods: {
    startHacking () {
       this.$notify({
-        title: 'It works!',
+        title: 'It works 1212!',
         type: 'success',
         message: 'We\'ve laid the ground work for you. It\'s time for you to build something epic!',
         duration: 5000
